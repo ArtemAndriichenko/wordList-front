@@ -7,6 +7,8 @@ import courseImg1 from "../../assets/images/web-design.png"
 import courseImg2 from "../../assets/images/graphics-design.png";
 import courseImg3 from "../../assets/images/ui-ux.png";
 
+
+
 const coursesData = [
   {
     id: "01",
